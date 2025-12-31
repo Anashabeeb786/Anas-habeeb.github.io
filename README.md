@@ -18,5 +18,5 @@ I am a BE Computer Science and Engineering student, aspiring software developer,
 - Contact information
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- LinkedIn: https://www.linkedin.com/in/muhammed-anas-231788280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - Email: anashabeeb518@gmail.com
